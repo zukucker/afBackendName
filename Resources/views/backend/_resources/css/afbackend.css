@@ -1,0 +1,10 @@
+#logo-container{
+	margin-left:calc(50% - 100px);	
+	margin-top:40px;
+}
+
+#logo-container .logo{
+	height:auto;
+	width: 200px;
+	margin:0 auto;
+}
