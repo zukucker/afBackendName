@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../../engine/Shopware/Components/Plugin/schema/config.xsd">
+
+    <elements>
+        <element type="mediaselection">
+            <name>afBackendNameLogo</name>
+						<label lang="de">Logo</label>
+            <!--<value>Just a demo configuration, without any effects.</value>-->
+            <description lang="de">Nur ein hoffentlich hilfreicher Text.</description>
+        </element>
+    </elements>
+
+</config>
